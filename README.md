@@ -1,9 +1,10 @@
 ### Olá, sou Moisés Deagostini do Valle. 👋
-Sou um profissional dedicado com experiência em atendimento ao cliente, suporte administrativo e
-técnico, estou em uma transição de carreira. Desenvolvi habilidades de comunicação eficazes, resolução de problemas e gestão de
-tarefas, sempre focado na satisfação do cliente e na eficiência operacional. Minha adaptabilidade
-e desejo constante de aprendizado me capacitam a enfrentar novos desafios, especialmente na
-área de tecnologia, onde busco minha primeira oportunidade para aplicar minhas competências adquiridas na faculdade, cursos e práticas.
+##### Sou um profissional dedicado com experiência em atendimento ao cliente, suporte administrativo e
+##### técnico, estou em uma transição de carreira. Desenvolvi habilidades de comunicação eficazes, resolução de problemas e gestão de
+##### tarefas, sempre focado na satisfação do cliente e na eficiência operacional. Minha adaptabilidade
+##### e desejo constante de aprendizado me capacitam a enfrentar novos desafios, especialmente na
+##### área de tecnologia, onde busco minha primeira oportunidade para aplicar minhas competências adquiridas na faculdade, cursos e práticas.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-deagostini-do-valle-7a10021a6)
 
 ![DeagostiniMoises GitHub stats](https://github-readme-stats.vercel.app/api?username=DeagostiniMoises&show_icons=true&theme=radical)
